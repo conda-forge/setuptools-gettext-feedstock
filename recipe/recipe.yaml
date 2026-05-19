@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.1.17"
+  version: "0.1.18"
 
 package:
   name: setuptools-gettext
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/setuptools-gettext/setuptools_gettext-${{ version }}.tar.gz
-  sha256: 9d292ec6fd6f567c226c8ea35440c7cbd8a51be44c8f87423bcda07eec26fe59
+  sha256: c92b0ae486def502686cd944f16559819e42f8dc0b9d683cf62e7415397f2b35
 
 build:
   number: 0
